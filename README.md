@@ -245,7 +245,7 @@ Extracts 9 key fields for each opportunity:
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/opportunity-search-agent.git
+git clone https://github.com/godsakani/opportunity-search-agent.git
 cd opportunity-search-agent
 ```
 
@@ -445,9 +445,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Your Name**
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+- GitHub: [@godsakani](https://github.com/godsakani/opportunity-search-agent.git)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/nyong-godwill-6906bb1b5/)
+- Email: nyonggodwill11@gmail.com
 
 ---
 
